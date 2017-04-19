@@ -1,6 +1,3 @@
-# Messenger Platform Sample
+# In shape Bot
 
-This is a sample project showcasing the Messenger Platform. You can go through the [walk-through](https://developers.facebook.com/docs/messenger-platform/quickstart) to understand this code in more detail. The [Complete Guide](https://developers.facebook.com/docs/messenger-platform/implementation) goes deeper into the features available.
-
-Visit the [dev site](https://developers.facebook.com/docs/messenger-platform/) to find out more details about the Messenger Platform.
-
+It is a bot to help you get in shape as long as you do workouts everyday
